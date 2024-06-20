@@ -30,6 +30,7 @@ The authentication service is designed to handle user authentication and authori
 - `POST auth/register`: Creates a new user account.
 - `POST auth/login`: Logs in a user and returns an authentication token.
 - `POST auth/logout`: Logs out the currently logged-in user.
+- `GET user/account`: Returns the user account details.
 
 ## Contributing
 
